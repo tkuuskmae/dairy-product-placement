@@ -34,6 +34,9 @@ Grocery store representations where the milk was placed to the farthest spot fro
 * `tallinn-3`
 * `tallinn-4`
 * `tallinn-6`
+* `stockholm-1`
+* `halifax-2`
+* `washington-1`
 
 Grocery store representations where at least one of the products from the comparative pool was father from the entry point than the milk:
 
@@ -43,3 +46,7 @@ Grocery store representations where at least one of the products from the compar
 * `london-4`
 * `tallinn-1`
 * `tallinn-5`
+* `halifax-1`
+* `washington-2`
+* `washington-3`
+
