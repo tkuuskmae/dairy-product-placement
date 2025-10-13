@@ -32,9 +32,20 @@ and other products. The categories to be mapped included (Estonian translations 
 
 Imaginary grocery stores where the milk was placed to the farthest spot from the entry point when compared with other products included to this study:
 
-* `sample`
-
+* `sample-2`
+* `sample-5`
+* `sample-6`
+* 
 Imaginary grocery stores where at least one of the products from the comparative pool was father from the entry point than the milk:
 
-* `sample`
+* `sample-1`
+* `sample-3`
+* `sample-4`
+* `sample-7`
+* `sample-8`
+* `sample-9`
+
+## Interpretation
+
+// TODO ...
 
