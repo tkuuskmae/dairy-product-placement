@@ -39,13 +39,16 @@ Imaginary grocery stores where the milk was placed to the farthest spot from the
 Imaginary grocery stores where at least one of the products from the comparative pool was father from the entry point than the milk:
 
 * `sample-1`
-* `sample-3`
-* `sample-4`
 * `sample-7`
 * `sample-8`
+
+Indecisive:
+
+* `sample-3`
+* `sample-4`
 * `sample-9`
 
-## Interpretation
+## Discussion
 
-// TODO ...
+
 
