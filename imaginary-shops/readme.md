@@ -50,5 +50,11 @@ Indecisive:
 
 ## Discussion
 
+As it can be observed from the results, the participants had a pretty varied approach to the placement of the dairy products
+in relation to the entry point. Some participants placed the dairy products to the farthest spot from the entry point
+when compared with other products, while others placed at least one of the other products farther from the entry point.
+Also, in some cases, it was indecisive whether the dairy products were placed to the farthest spot or not. This indicates
+that there is no single  preferred placement strategy among the customers when it comes to dairy products
+
 
 
