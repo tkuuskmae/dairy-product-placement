@@ -50,3 +50,7 @@ Grocery store representations where at least one of the products from the compar
 * `washington-2`
 * `washington-3`
 
+## Discussion
+As it can be observed from the results, in most of the visited grocery stores (66% )the milk was placed to the farthest
+spot  from  the entry point when compared with other products. This supports the widely spread assumption that dairy
+products are placed  as far as possible from the entry point.
