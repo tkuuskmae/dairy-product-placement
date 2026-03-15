@@ -35,7 +35,7 @@ Imaginary grocery stores where the milk was placed to the farthest spot from the
 * `sample-2`
 * `sample-5`
 * `sample-6`
-* 
+  
 Imaginary grocery stores where at least one of the products from the comparative pool was father from the entry point than the milk:
 
 * `sample-1`
